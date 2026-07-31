@@ -1,6 +1,6 @@
 # PDF Certificate Splitter
 
-A Python script that automatically splits a multi-page PDF into individual PDF files and renames each file using student information from an Excel spreadsheet.
+A Python script that automatically splits a multi-page PDF into individual PDF files and renames each file using a listfrom an Excel spreadsheet.
 
 ## Features
 
